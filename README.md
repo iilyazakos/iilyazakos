@@ -9,6 +9,8 @@ I am fond of mathematics and have now decided to delve into data analysis and da
 - plolty
 - TensorFlow
 - git
+- streamlit
+- keras
 
 ### 📈 GitHub Stats
 [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iilyazakos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
