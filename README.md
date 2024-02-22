@@ -6,7 +6,7 @@ I am fond of mathematics and have now decided to delve into data analysis and da
 - SQL
 - python3
 - pandas + numpy
-- plolty
+- plotly
 - TensorFlow
 - git
 - streamlit
